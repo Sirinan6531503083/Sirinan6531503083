@@ -1,16 +1,16 @@
-<p align="center">
+<div style="position: relative; text-align: center; color: white;">
   <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-galaxy.png" alt="Sirinanhongdamnean" width="800">
-</p>
+  
+  <h1 style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); font-size: 60px; font-weight: bold;">
+    Sirinan Hongdamnean
+  </h1>
+  
+  <h3 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 28px;">
+    Software Engineer
+  </h3>
+</div>
 
-<p align="center" style="font-size:60px; color:#FFFFFF; font-weight:bold; margin-top:-160px;">
-  Sirinan Hongdamnean
-</p>
-
-<p align="center" style="font-size:24px; color:#FFFFFF; margin-top:-5px;">
-  Software Engineer
-</p>
-
-<p align="center" style="margin-top:10px;">
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/sirinan-hongdamnean">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
