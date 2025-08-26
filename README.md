@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-pink.svg" alt="Sirinanhongdamnean">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&color=FFFFFF&background=FF69B4&center=true&width=800&lines=Sirinanhongdamnean" alt="Sirinanhongdamnean" />
 </p>
 
-<p align="center" style="font-size:24px; color:#FFD700;">
+<p align="center" style="font-size:24px; color:#FFFFFF;">
   Software Engineer
 </p>
 
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ## 💻 About Me
 - 🔹 Software Engineering enthusiast  
