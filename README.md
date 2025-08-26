@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Sirinan Hongdamnean</h1>
-  <h3>Software Engineer</h3>
-</div>
-
 <p align="center" style="color:#FFD700; font-size:60px; font-weight:bold;">
   Sirinan Hongdamnean
 </p>
@@ -11,6 +5,12 @@
 <p align="center" style="color:#FFD700; font-size:28px; margin-top:-10px;">
   Software Engineer
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Sirinan Hongdamnean</h1>
+  <h3>Software Engineer</h3>
+</div>
 
 <p align="center" style="margin-top:20px;">
   <a href="https://github.com/sirinan-hongdamnean">
