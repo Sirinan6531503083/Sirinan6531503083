@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFD700?text=Sirinanhongdamnean" alt="Sirinanhongdamnean" width="800" height="200">
+  <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-pink.svg" alt="Sirinanhongdamnean">
 </p>
 
 <p align="center" style="font-size:24px; color:#FFD700;">
