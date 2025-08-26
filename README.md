@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=2500&color=FFA500&center=true&width=700&lines=★+Sirinanhongdamnean+★;Software+Engineer+%E2%9C%85" alt="Sirinanhongdamnean">
+  <img src="https://via.placeholder.com/800x200/000000/FFD700?text=Sirinanhongdamnean" alt="Sirinanhongdamnean" width="800" height="200">
+</p>
+
+<p align="center" style="font-size:24px; color:#FFD700;">
+  Software Engineer
 </p>
 
 <p align="center">
