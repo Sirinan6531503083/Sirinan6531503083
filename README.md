@@ -1,25 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&color=FFD700&background=00000000&center=true&width=800&lines=Sirinanhongdamnean;Software+Engineering" alt="Sirinanhongdamnean">
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<p align="center">
+  <a href="https://github.com/sirinan-hongdamnean">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sirinan-hongdamnean/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sirinan.hongdamnean@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+## 💻 About Me
+- 🔹 Software Engineering enthusiast  
+- 🔹 Passionate about web development, AI, and open-source  
+- 🔹 Always learning new technologies and improving my skills  
 
-**Sirinan6531503083/Sirinan6531503083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+**Languages:** Java, Python, JavaScript, C++  
+**Frontend:** React.js, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, Docker, VS Code  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirinan-hongdamnean&show_icons=true&theme=tokyonight" alt="Sirinan's GitHub Stats" />
+</p>
