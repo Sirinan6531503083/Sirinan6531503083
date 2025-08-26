@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&color=FFD700&background=00000000&center=true&width=800&lines=Sirinanhongdamnean;Software+Engineering" alt="Sirinanhongdamnean">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=2500&color=FFA500&center=true&width=700&lines=★+Sirinanhongdamnean+★;Software+Engineer+%E2%9C%85" alt="Sirinanhongdamnean">
 </p>
 
 <p align="center">
@@ -7,12 +7,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sirinan-hongdamnean/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sirinan.hongdamnean@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ## 💻 About Me
 - 🔹 Software Engineering enthusiast  
