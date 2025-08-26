@@ -1,11 +1,17 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-galaxy.png" alt="Sirinanhongdamnean" width="800">
-  
-  <h1 style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); font-size: 60px; font-weight: bold;">
+<div style="
+    background: radial-gradient(circle at 20% 30%, #1a1a2e, #0f0f1f 80%);
+    background-size: cover;
+    border-radius: 15px;
+    padding: 60px 20px;
+    text-align: center;
+    color: #FFD700;
+    box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+    margin-bottom: 30px;
+">
+  <h1 style="font-size: 60px; font-weight: bold; margin: 0; text-shadow: 0 0 15px #FFD700;">
     Sirinan Hongdamnean
   </h1>
-  
-  <h3 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 28px;">
+  <h3 style="font-size: 28px; margin: 10px 0 0 0; text-shadow: 0 0 10px #FFD700;">
     Software Engineer
   </h3>
 </div>
