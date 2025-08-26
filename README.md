@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&color=FFFFFF&background=FF69B4&center=true&width=800&lines=Sirinanhongdamnean" alt="Sirinanhongdamnean" />
+  <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-galaxy.png" alt="Sirinanhongdamnean" width="800">
 </p>
 
-<p align="center" style="font-size:24px; color:#FFFFFF;">
+<p align="center" style="font-size:50px; color:#FFFFFF; font-weight:bold; margin-top:-180px;">
+  Sirinan Hongdamnean
+</p>
+
+<p align="center" style="font-size:28px; color:#FFFFFF; margin-top:-10px;">
   Software Engineer
 </p>
 
