@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/sirinan-hongdamnean/readme-assets/main/header-galaxy.png" alt="Sirinanhongdamnean" width="800">
 </p>
 
-<p align="center" style="font-size:50px; color:#FFFFFF; font-weight:bold; margin-top:-180px;">
+<p align="center" style="font-size:60px; color:#FFFFFF; font-weight:bold; margin-top:-160px;">
   Sirinan Hongdamnean
 </p>
 
-<p align="center" style="font-size:28px; color:#FFFFFF; margin-top:-10px;">
+<p align="center" style="font-size:24px; color:#FFFFFF; margin-top:-5px;">
   Software Engineer
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <a href="https://github.com/sirinan-hongdamnean">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -22,10 +22,12 @@
   </a>
 </p>
 
+---
+
 ## 💻 About Me
-- 🔹 Software Engineering enthusiast  
+- 🔹 Enthusiastic Software Engineer  
 - 🔹 Passionate about web development, AI, and open-source  
-- 🔹 Always learning new technologies and improving my skills  
+- 🔹 Continuously learning new technologies and improving skills  
 
 ## 🛠️ Skills
 **Languages:** Java, Python, JavaScript, C++  
@@ -34,7 +36,9 @@
 **Database:** MongoDB, Firebase  
 **Tools:** Git, Docker, VS Code  
 
+---
+
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirinan-hongdamnean&show_icons=true&theme=tokyonight" alt="Sirinan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sirinan-hongdamnean&show_icons=true&theme=tokyonight" alt="Sirinanhongdamnean's GitHub Stats" />
 </p>
