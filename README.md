@@ -1,14 +1,13 @@
 <div style="
-    background: radial-gradient(circle at 20% 30%, #1a1a2e, #0f0f1f 80%);
-    background-size: cover;
+    background: linear-gradient(135deg, #6a11cb, #2575fc); /* สีม่วงไปฟ้า */
     border-radius: 15px;
-    padding: 60px 20px;
+    padding: 80px 20px;
     text-align: center;
-    color: #FFD700;
-    box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+    color: #FFD700; /* สีทอง */
+    box-shadow: 0 0 40px rgba(255, 215, 0, 0.4);
     margin-bottom: 30px;
 ">
-  <h1 style="font-size: 60px; font-weight: bold; margin: 0; text-shadow: 0 0 15px #FFD700;">
+  <h1 style="font-size: 64px; font-weight: bold; margin: 0; text-shadow: 0 0 15px #FFD700;">
     Sirinan Hongdamnean
   </h1>
   <h3 style="font-size: 28px; margin: 10px 0 0 0; text-shadow: 0 0 10px #FFD700;">
