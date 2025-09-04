@@ -32,14 +32,18 @@
 </p>
 
 
-<!--About Me-->
+<!-- About Me -->
 <h2 align="left">About Me</h2>
 <p align="left">
-  I am a fourth-year <b>Software Engineering student</b> with a strong passion for <b>web</b> and <b>front-end application development</b>.<br/>
-  I excel at <b>team collaboration</b>, have a solid understanding of <b>UI/UX design principles</b>, and carry a strong sense of <b>responsibility</b>.<br/>
-  Driven by curiosity and continuous learning, I am committed to improving my skills and<br/>
-  aspiring to become a <b>professional Front-End Developer</b>.
+I am a <strong>4th-year Software Engineering student</strong> at Mae Fah Luang University with a strong passion for <strong>front-end development</strong>. I have hands-on experience in creating <strong>user-friendly</strong> and <strong>responsive websites and applications</strong>, with a solid understanding of <strong>UI/UX design principles</strong>.
 </p>
+<p align="left">
+I am a <strong>collaborative team player</strong> who communicates effectively, takes responsibility for assigned tasks, and manages deadlines efficiently. I am highly motivated, eager to learn new technologies, and committed to continuously improving my skills.
+</p>
+<p align="left">
+I aim to leverage my knowledge and passion to contribute meaningfully during an internship and grow into a <strong>professional Front-End Developer</strong> capable of delivering engaging and high-performance.
+</p>
+
 
 <h2 align="left">🎓 Education</h2>
 
