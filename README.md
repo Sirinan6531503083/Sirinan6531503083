@@ -1,6 +1,6 @@
 <!-- README Header -->
 <div align="center">
-  <img src="1.jpg" style="width: 100%; max-width: 1200px; height: auto;"/>
+  <img src="image3.png" style="width: 100%; max-width: 1200px; height: auto;"/>
 </div>
 
 
