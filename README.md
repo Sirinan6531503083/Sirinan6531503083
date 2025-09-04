@@ -1,10 +1,16 @@
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <h1>Sirinan Hongdamnean</h1>
-  <h3>Software Engineering</h3>
+<!-- README Header -->
+<div align="center" style="
+   <div align="center">
+**🎨 Sirinan Hongdamnean**  
+*Software Engineering*  
+![GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 </div>
 
+</div>
+
+---
+  
+  <!-- Social Links -->
 <p align="center" style="margin-top: 40px;">
 
   <!-- Email -->
@@ -29,35 +35,108 @@
 
 </p>
 
----
 
-## 💻 About Me
-- 🔹 Enthusiastic Software Engineer  
-- 🔹 Passionate about web development, AI, and open-source  
-- 🔹 Continuously learning new technologies and improving skills  
+<!--About Me-->
+<h2 align="center">About Me</h2>
+<p align="center">
+  I am a fourth-year <b>Software Engineering student</b> with a strong passion for <b>web</b> and <b>front-end application development</b>.<br/>
+  I excel at <b>team collaboration</b>, have a solid understanding of <b>UI/UX design principles</b>, and carry a strong sense of <b>responsibility</b>.<br/>
+  Driven by curiosity and continuous learning, I am committed to improving my skills and<br/>
+  aspiring to become a <b>professional Front-End Developer</b>.
+</p>
 
-## 🛠️ Skills
-**Languages:** Java, Python, JavaScript, C++  
-**Frontend:** React.js, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Firebase  
-**Tools:** Git, Docker, VS Code  
+<h2 align="left">🎓 Education</h2>
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<ul>
+  <li>
+    <b>2020 - 2022</b><br/>
+     Latyaowittayakhom School <br/>
+    - High School Education Level
+  </li>
+  <br/>
+  <li>
+    <b>2022 - Present</b><br/>
+     Mae Fah Luang University <br/>
+    <i>- Undergraduate Student</i> – Software Engineering (4th year)
+  </li>
+</ul>
+
+
+<!-- Coding Skills -->
+<h2 align="left">:hammer_and_wrench:Skills</h2
+
+<!-- Coding Skills -->
+<h3 align="left" style="margin-top:10px;">💻 Coding Skills</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/><br/>
+      <b>Dart</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/><br/>
+      <b>ReactJS</b>
+    </td>
+  </tr>
+</table>
+
+<!-- Frameworks -->
+<h3 align="left" style="margin-top:10px;">⚡ Frameworks</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/><br/>
+      <b>Flutter</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50" height="50"/><br/>
+      <b>Vue.js</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="50" height="50"/><br/>
+      <b>Nuxt.js</b>
+    </td>
+  </tr>
+</table>
+
+<!-- Tools -->
+<h3 align="left" style="margin-top:10px;">🧰 Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="50" height="50"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="50" height="50"/><br/>
+      <b>Jupyter</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/><br/>
+      <b>Figma</b>
+    </td>
+  </tr>
+</table>
+
+
+
