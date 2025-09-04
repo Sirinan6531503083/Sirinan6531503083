@@ -6,11 +6,11 @@
 
 ---
   
-  <!-- Social Links -->
+ <!-- Social Links -->
 <p align="center" style="margin-top: 40px;">
 
   <!-- Email -->
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" style="margin: 0 5px;">
+  <a href="mailto:hongdamneansirinan@gmail.com" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -28,8 +28,8 @@
   <a href="https://www.instagram.com/nanirisx.bm/" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
 </p>
+
 
 
 <!-- About Me -->
