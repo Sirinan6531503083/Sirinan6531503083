@@ -1,6 +1,6 @@
 <!-- README Header -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1cWxzdWV3dW5ta3l3Y2plenl4Z2hxajVvZHFzeDIxYWw5cGh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="400"/>
+  <img src="image3.png" style="width: 100%; max-width: 1200px; height: auto;"/>
 </div>
 
 
