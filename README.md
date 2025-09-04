@@ -1,12 +1,8 @@
 <!-- README Header -->
-<div align="center" style="
-   <div align="center">
-**🎨 Sirinan Hongdamnean**  
-*Software Engineering*  
-![GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1cWxzdWV3dW5ta3l3Y2plenl4Z2hxajVvZHFzeDIxYWw5cGh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="400"/>
 </div>
 
-</div>
 
 ---
   
@@ -35,6 +31,10 @@
 
 </p>
 
+<!--Image-->
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1cWxzdWV3dW5ta3l3Y2plenl4Z2hxajVvZHFzeDIxYWw5cGh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="400"/>
+</div>
 
 <!--About Me-->
 <h2 align="center">About Me</h2>
