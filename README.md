@@ -31,14 +31,10 @@
 
 </p>
 
-<!--Image-->
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1cWxzdWV3dW5ta3l3Y2plenl4Z2hxajVvZHFzeDIxYWw5cGh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="400"/>
-</div>
 
 <!--About Me-->
-<h2 align="center">About Me</h2>
-<p align="center">
+<h2 align="left">About Me</h2>
+<p align="left">
   I am a fourth-year <b>Software Engineering student</b> with a strong passion for <b>web</b> and <b>front-end application development</b>.<br/>
   I excel at <b>team collaboration</b>, have a solid understanding of <b>UI/UX design principles</b>, and carry a strong sense of <b>responsibility</b>.<br/>
   Driven by curiosity and continuous learning, I am committed to improving my skills and<br/>
