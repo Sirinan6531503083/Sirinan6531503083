@@ -15,9 +15,9 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sirinan-hongdamnean/" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/sirinan-hongdamnean-9163132b7/" target="_blank" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/sinun.hongdamnurn/" target="_blank" style="margin: 0 5px;">
